@@ -10,4 +10,4 @@ Key basics of git
 7 user.name, user.email and main renaming to setup my git settings 
 8 see my current status with git status 
 
-
+changes to work on my first git pull tutorial 
